@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 293,
-    "timeWeek": 153,
-    "timeMonth": 136,
+    "timeDay": 96,
+    "timeWeek": 154,
+    "timeMonth": 133,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 155,
-    "timeWeek": 174,
-    "timeMonth": 134,
+    "time": 241,
+    "timeDay": 125,
+    "timeWeek": 153,
+    "timeMonth": 126,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -48,15 +48,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 387,
-    "timeWeek": 332,
-    "timeMonth": 266,
-    "timeYear": 323,
+    "time": 319,
+    "timeDay": 154,
+    "timeWeek": 298,
+    "timeMonth": 267,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-04-26": 18,
-      "2024-04-23": 19,
-      "2024-03-26": 23
+      "2024-04-23": 19
     }
   },
   {
@@ -83,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/router-eygelshoven.s3x.gdn.ico",
     "slug": "dus-01",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "96.50%",
     "time": 587,
-    "timeDay": 520,
-    "timeWeek": 575,
-    "timeMonth": 600,
+    "timeDay": 672,
+    "timeWeek": 589,
+    "timeMonth": 599,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-03-05": 85,
@@ -122,8 +121,7 @@
       "2024-04-21": 36,
       "2024-04-15": 27,
       "2024-04-13": 19,
-      "2024-03-28": 16,
-      "2024-03-26": 34
+      "2024-03-28": 16
     }
   }
 ]
